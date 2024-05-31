@@ -1,0 +1,160 @@
+
+
+/*Salomão Félix - 20220155*/
+
+* {
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.cabecalho {
+    background-color: #eb9800;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logotipo {
+    height: 200px;
+}
+
+.navegacao {
+    margin: 70px;
+}
+
+.android {
+    background-color: #fff;
+    color: #eb9800;
+    border-radius: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 25px;
+    margin: 5px;
+    text-align: center;
+}
+
+.ios {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 25px;
+    margin: 5px;
+    text-align: center;
+}
+
+.titulo {
+    font-size: 30pt;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.subtitulo {
+    font-size: 15pt;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-bottom: 200px;
+}
+
+.caixa {
+    width: 400px;
+    margin-top: 200px;
+    text-align: center;
+}
+
+.tituloh2 {
+    font-weight: bold;
+    margin: 15px;
+    font-size: 12pt;
+}
+
+.subp {
+    margin: 10px;
+    font-size: 10pt;
+    line-height: 1.5;
+}
+
+.container3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-bottom: 100px;
+}
+
+.textofoto {
+    margin: 10px 10px 100px 100px
+    /*cima esquerda baixo direita*/
+}
+
+.h2foto {
+    font-weight: bold;
+    margin: 15px;
+    font-size: 50pt;
+}
+
+.pfoto  {
+    font-weight: bold;
+    margin: 15px;
+    font-size: 10pt;
+}
+
+.foto1  {
+    height: 550px;
+    margin: 20px 100px 20px 20px;
+}
+
+
+
+.rodape {
+    background: #34322f;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    align-content: center;
+    color : #fff;
+}
+
+.caixaf {
+    width: 400px;
+    text-align: center;
+}
+
+.pafooter {
+    font-weight: bold;
+    margin: 15px;
+    font-size: 10pt;
+    color: #fff;
+    text-align: left;
+}
+
+.pfooter {
+    font-weight: bold;
+    margin: 15px;
+    font-size: 10pt;
+    color: #fff;
+}
+
+.h2f {
+    margin-top: 100px;
+    margin-bottom: 70px;
+}
+
